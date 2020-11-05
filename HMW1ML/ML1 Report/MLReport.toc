@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}% 
+\contentsline {section}{\numberline {2}Understanding the Classification Problem}{1}{section.2}% 
+\contentsline {section}{\numberline {3}Learning Algorithms}{1}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Decision Tree}{1}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Multinomial Naive Bayes }{2}{subsection.3.2}% 
+\contentsline {section}{\numberline {4}Implementations in Python}{2}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Parsing the Train Set}{2}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Vectorizing the Data}{3}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}Splitting the DataSet}{5}{subsection.4.3}% 
+\contentsline {subsection}{\numberline {4.4}Creating the Model and Processing the Data}{5}{subsection.4.4}% 
+\contentsline {section}{\numberline {5}Evaluating the Perfomances}{7}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}Precision}{7}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5.2}Recall}{7}{subsection.5.2}% 
+\contentsline {subsection}{\numberline {5.3}F1 Score}{7}{subsection.5.3}% 
+\contentsline {subsection}{\numberline {5.4}The Precision-Recall curve}{8}{subsection.5.4}% 
+\contentsline {section}{\numberline {6}BlindTest}{9}{section.6}% 
+\contentsline {subsection}{\numberline {6.1}Binary Classification Problem}{9}{subsection.6.1}% 
+\contentsline {subsection}{\numberline {6.2}Multiclass Classification Problem}{11}{subsection.6.2}% 
+\contentsline {section}{\numberline {7}References}{12}{section.7}% 
